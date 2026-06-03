@@ -1,4 +1,4 @@
-# BMW Sales Performance – Power BI
+# BMW Sales Performance Dashboard – Power BI
 
 An interactive 3-page Power BI dashboard analyzing BMW vehicle sales data across regions, models, fuel types, and years. Designed to provide clear, data-driven insights for business decision-making.
 
@@ -31,8 +31,6 @@ Deep-dive into factors influencing sales and pricing:
 - Average Engine Size by Year (table)
 - **Key Influencers Visual**: Identifies factors that drive Average Price (USD) increases
 
----
-
 ## How to View
 
 1. Download the `.pbix` file
@@ -43,3 +41,4 @@ Deep-dive into factors influencing sales and pricing:
 
 ## Author
 **Fazra Farook**
+**BSc (Hons) in Applied Statistics – University of Colombo**

@@ -37,7 +37,7 @@ Deep-dive into factors influencing sales and pricing:
 2. Open with [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
 3. Explore all 3 pages using the navigation buttons
 
-**Live Dashboard**: [View on Power BI Service](#) *(https://app.powerbi.com/groups/me/reports/6bea0fc3-7bba-4937-964c-7aaacd82eaea?ctid=c3a2e36d-d569-4973-b673-adceb6707fe9&pbi_source=linkShare)*
+**Live Dashboard**: [View on Power BI Service](https://app.powerbi.com/groups/me/reports/6bea0fc3-7bba-4937-964c-7aaacd82eaea?ctid=c3a2e36d-d569-4973-b673-adceb6707fe9&pbi_source=linkShare)
 
 ## Author
 **Fazra Farook**  
